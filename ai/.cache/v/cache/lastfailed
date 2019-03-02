@@ -1,0 +1,5 @@
+{
+  "testmagicball.py": true, 
+  "testmagicball.py::TestMagicEightBall::test_magiceightball_method_get_user_input": true, 
+  "testmagicball.py::TestMagicEightBall::test_magiceightball_method_reply": true
+}
